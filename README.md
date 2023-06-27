@@ -11,7 +11,10 @@
 #4. Work-Flow
 
 #6. 프로젝트 시연
+<h2>회원가입</h2>
 
 https://github.com/Wonrak-Choi/backtest/assets/137736890/e829fcd4-bf70-4ae9-b2b1-ace11a0035d0
+
+<h2>로그인</h2>
 
 https://github.com/Wonrak-Choi/backtest/assets/137736890/66d88cea-1e7c-45c4-a0a0-37753f5ac039
