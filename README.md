@@ -11,3 +11,5 @@
 #4. Work-Flow
 
 #6. 프로젝트 시연
+
+https://github.com/Wonrak-Choi/backtest/assets/137736890/f91200cc-de13-4383-ad45-f8765d4197b1
